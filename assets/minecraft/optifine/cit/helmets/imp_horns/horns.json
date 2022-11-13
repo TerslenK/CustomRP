@@ -222,11 +222,12 @@
 			"translation": [0, 3.75, 0]
 		},
 		"ground": {
-			"translation": [0, 5, 0]
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [23, 143, 0],
-			"translation": [0.25, 1.75, 0],
+			"rotation": [30, 225, 0],
+			"translation": [-0.25, 3, 0],
 			"scale": [0.9, 0.9, 0.9]
 		},
 		"head": {
@@ -234,8 +235,7 @@
 			"scale": [1.5, 1.5, 1.5]
 		},
 		"fixed": {
-			"rotation": [155, 0, 0],
-			"translation": [0.75, -2.75, -4.5],
+			"translation": [0, 4.5, -3.5],
 			"scale": [1.5, 1.5, 1.5]
 		}
 	},
@@ -243,11 +243,13 @@
 		{
 			"name": "right horn",
 			"origin": [0, 0, 0],
+			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6]
 		},
 		{
 			"name": "left horn",
 			"origin": [0, 0, 0],
+			"color": 0,
 			"children": [7, 8, 9, 10, 11, 12, 13]
 		}
 	]
