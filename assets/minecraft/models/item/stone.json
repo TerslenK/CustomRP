@@ -1,0 +1,17 @@
+{
+  "credit": "Made By Mighty TerslenK",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/stone"
+  },
+
+  "overrides": [
+    {
+      "predicate":
+      {
+        "custom_model_data": 10000
+      },
+      "model": "custom/inventory_part"
+    }
+  ]
+}
