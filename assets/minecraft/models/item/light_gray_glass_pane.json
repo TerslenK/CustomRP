@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/stone"
+    "layer0": "item/light_gray_glass_pane"
   },
   "overrides": [
     {"predicate": {"custom_model_data":1001}, "model": "custom/tutorial"}
