@@ -1,19 +1,20 @@
 {
 	"credit": "Made by TerslenK",
 	"textures": {
-		"1": "custom/inventory_part"
+		"0": "custom/inventory_part",
+		"particle": "custom/inventory_part"
 	},
 	"elements": [
 		{
-			"from": [0, 0, 8],
+			"from": [0, 0, 7],
 			"to": [16, 16, 9],
 			"faces": {
-				"north": {"uv": [0.25, 0.25, 0.75, 0.75], "texture": "#1"},
-				"east": {"uv": [1.25, 0.25, 1.75, 0.75], "texture": "#1"},
-				"south": {"uv": [2.25, 0.25, 2.75, 0.75], "texture": "#1"},
-				"west": {"uv": [3.25, 0.25, 3.75, 0.75], "texture": "#1"},
-				"up": {"uv": [4.25, 0.25, 4.75, 0.75], "texture": "#1"},
-				"down": {"uv": [5.25, 0.25, 5.75, 0.75], "texture": "#1"}
+				"north": {"uv": [0.25, 0.25, 0.75, 0.75], "texture": "#0"},
+				"east": {"uv": [1.25, 0.25, 1.75, 0.75], "texture": "#0"},
+				"south": {"uv": [2.25, 0.25, 2.75, 0.75], "texture": "#0"},
+				"west": {"uv": [3.25, 0.25, 3.75, 0.75], "texture": "#0"},
+				"up": {"uv": [4.25, 0.25, 4.75, 0.75], "texture": "#0"},
+				"down": {"uv": [5.25, 0.25, 5.75, 0.75], "texture": "#0"}
 			}
 		}
 	],
@@ -41,14 +42,15 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"scale": [1.25, 1.25, 1]
+			"scale": [1.12, 1.12, 1]
 		},
 		"head": {
-			"rotation": [0, 180, 0],
-			"translation": [0, 13, 7]
+			"scale": [0, 0, 0]
 		},
 		"fixed": {
-			"rotation": [0, 180, 0]
+			"rotation": [0, 180, 0],
+			"translation": [0, 0, 1],
+			"scale": [1.5, 1.5, 1]
 		}
 	}
 }
