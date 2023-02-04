@@ -1,8 +1,8 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by TerslenK",
 	"textures": {
-		"0": "custom/inventory_part",
-		"particle": "custom/inventory_part"
+		"0": "custom/inventory_part.png",
+		"particle": "custom/inventory_part.png"
 	},
 	"elements": [
 		{
