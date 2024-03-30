@@ -1,12 +1,1 @@
-{
- 
-  "pack": {
-    "pack_format": 12,
-
-    "description": [
-         {"text":"Newonia Texture Pack ","color":"#CBC8A4"},
-         {"text":"\nMade by TerslenK","color":"#808080","italic":true}
-      ]
-  }
-
-}
+{"pack":{"pack_format":15,"description":"Nova (4 asset pack(s), 0 base pack(s))"}}
