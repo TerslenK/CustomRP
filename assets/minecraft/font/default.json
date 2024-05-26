@@ -1,0 +1,319 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/adminbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	},
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/bluebyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/builderbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/designerbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/devbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/devlbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/donatorbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/elitebyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/eliteplusbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/eventsbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/godbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/greenbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/helperbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/managerbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/mediabyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/modbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/modlbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/mvpbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/mvpplusbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/mvpplusplusbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/noobbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/ogbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/ownerbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/probyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/redbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/tiktokbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/twitchbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/vipbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/vipplusbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/yellowbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/youtubebyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/memberbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/attributes.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uFA00\uFA01\uFA02\uFA03\uFA04"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/discs.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uFA05\uFA06\uFA07\uFA08\uFA09\uFA0A\uFA0B\uFA0C\uFA0D\uFA0E\uFA0F\uFA10\uFA11\uFA12\uFA13\uFA14"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/effects.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uFA16\uFA17\uFA18\uFA19\uFA1A\uFA1B\uFA1C\uFA1D\uFA1E\uFA1F\uFA20\uFA21\uFA22\uFA23\uFA24\uFA25\uFA26\uFA27\uFA28\uFA29\uFA2A\uFA2B\uFA2C\uFA2D\uFA2E\uFA2F\uFA30\uFA31\uFA32\uFA33\uFA34\uFA35\uFA36"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/enchanting_table_anvil.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uFA37\uFA38\uFA39\uFA3A"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/enchantments.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uFA3B\uFA3C\uFA3D\uFA3E\uFA3F\uFA40\uFA41\uFA42\uFA43\uFA44\uFA45\uFA46\uFA47\uFA48\uFA49"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/gamemode.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uFA4A\uFA4B\uFA4C\uFA4D\uFA4E"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/hungry.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uFA4F\uFA50"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/infested_blocks.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uFAB0"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/sleep.png",
+			"ascent": 15,
+			"height": 19,
+			"chars": ["\uFA51"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/settings.png",
+			"ascent": 12,
+			"height": 16,
+			"chars": ["\uFA52\uFA53\uFA54\uFA55"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/skin.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["\uFA5C\uFA5D\uFA5E\uFA5F\uFA60\uFA61\uFA62\uFA63\uFA64\uFA65\uFA66"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/mobs.png",
+			"ascent": 36,
+			"height": 36,
+			"chars": ["\uFA67\uFA68\uFA69\uFA6A\uFA6B\uFA6C\uFA6D\uFA6E\uFA6F\uFA70\uFA71\uFA72\uFA73\uFA74\uFA75\uFA76\uFA77\uFA78\uFA79\uFA7A\uFA7B\uFA7C\uFA7D\uFA7E\uFA7F\uFA80\uFA81\uFA82\uFA83\uFA84\uFA85\uFA86\uFA87\uFA88\uFA89\uFA8A\uFA8B\uFA8C\uFA8D\uFA8E\uFA8F\uFA90\uFA91\uFA92\uFA93\uFA94\uFA95\uFA96\uFA97\uFA98\uFA99\uFA9A\uFA9B\uFA9C\uFA9D\uFA9E\uFA9F\uFAA0\uFAA1\uFAA2\uFAA3\uFAA4\uFAA5\uFAA6\uFAA7\uFAA8\uFAA9\uFAAA\uFAAB\uFAAC"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/icons/mobs2.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": ["\uFAB1\uFAB2\uFAB3\uFAB4\uFAB5\uFAB6"]
+		}
+    ]
+}
