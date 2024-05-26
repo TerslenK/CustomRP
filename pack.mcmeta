@@ -1,1 +1,55 @@
-{"pack":{"pack_format":15,"description":"Nova (4 asset pack(s), 0 base pack(s))"}}
+{
+	"pack": {
+		"pack_format": 15,
+		"supported_formats": [
+			15,
+			22
+		],
+		"description": [
+			{
+				"text": "§lV",
+				"color": "#f0c636"
+			},
+			{
+				"text": "§lo",
+				"color": "#26cc85"
+			},
+			{
+				"text": "§li",
+				"color": "#268bcc"
+			},
+			{
+				"text": "§ld",
+				"color": "#dc76db"
+			},
+			{
+				"text": " ",
+				"color": "#dc76db"
+			},
+			{
+				"text": "§lP",
+				"color": "#aa6cea"
+			},
+			{
+				"text": "§la",
+				"color": "#ea9dd0"
+			},
+			{
+				"text": "§lc",
+				"color": "#9de9ea"
+			},
+			{
+				"text": "§lk",
+				"color": "#e78d58"
+			},
+			{
+				"text": " - Textures\nCreated by ",
+				"color": "gray"
+			},
+			{
+				"text": "Void Creations",
+				"color": "#683edd"
+			}
+		]
+	}
+}
