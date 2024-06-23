@@ -72,6 +72,10 @@ void main() {
             bool outline = false;
 
             switch (id) {
+                case 1:
+                    xGui = ui.x * 50.0 / 100.0;
+                    yGui = ui.y * 50.0 / 100.0;
+                    break;
             }
 
             vertexColor = ((pos.z == 0 || ceil(pos.z * 100) == 100000) && !outline) ? vec4(0) : Color * texelFetch(Sampler2, UV2 / 16, 0);
