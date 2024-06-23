@@ -1,4 +1,4 @@
-name: Create Texture Pack
+name: Yeni bir Texturepack Oluştur
 on: [push]
 jobs:
   build:
@@ -12,14 +12,14 @@ jobs:
         git config --global user.email "terslenkhd@gmail.com"
         git config pull.rebase false
         git pull
-        rm -f release.zip
+        rm -f texturepack.zip
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        filename: 'release.zip'
+        filename: 'texturepack.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
     - name: push changes to remote
       run: |
         git add -A
-        git commit -m "new pack"
+        git commit -m "Yeni Texturepack Oluştur"
         git push --force
